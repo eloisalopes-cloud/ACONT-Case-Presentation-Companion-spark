@@ -1,0 +1,6 @@
+{
+  "name": "ACONT Case Presentation Companion",
+  "description": "An interactive pitch companion, script prompter, and dynamic operations dashboard for ACONT's award-winning Junior Enterprise case study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
